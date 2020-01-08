@@ -25,7 +25,7 @@ var lowerCasePref;
 // When generate button is pressed, I want the prompt to show up to ask user how many characters they want//
 
 // Add event listener to generate button
-document.addEventListener("click", function (event) {
+generateBtn.addEventListener("click", function (event) {
 
     promptPassword()
 })
@@ -198,7 +198,8 @@ function copyToClipboard() {
     // BONUS 
 }
 
-document.querySelector("#copy").addEventListener("click", function (events) {
+document.querySelector("#copyToClipboard").addEventListener("click", function (events) {
+    events.stopPropagation();
     copyToClipboard()
 })
 

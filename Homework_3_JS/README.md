@@ -1,1 +1,1 @@
-# Random_Password_Generator_Homework_3
+Trying to do this the first time around, I made things more complicated than they should have been. Though I completed the assignment, everything looked really sloppy and by the end of my work, I was not even really sure how it was working. Then, a friend who codes gave me direction on how to make things easier. After being showed the ropes, I started thinking smarter, not harder. I drew out what steps I think needed to take place then started just slowly making the steps happen. 
