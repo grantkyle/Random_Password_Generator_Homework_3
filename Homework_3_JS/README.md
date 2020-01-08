@@ -1,1 +1,3 @@
-Trying to do this the first time around, I made things more complicated than they should have been. Though I completed the assignment, everything looked really sloppy and by the end of my work, I was not even really sure how it was working. Then, a friend who codes gave me direction on how to make things easier. After being showed the ropes, I started thinking smarter, not harder. I drew out what steps I think needed to take place then started just slowly making the steps happen. 
+This project will allow the user to click "Generate Password" to let them choose from four parameters: upper case, lower case, special characters or numbers. 
+
+After a prompt lets the user choose which of those parameters they would like to include or not include, the program will return a randomly generated password.
